@@ -54,29 +54,31 @@ npm install
 ```
 
 ### 3. Create a .env file in the backend folder with the following variables:
-
+```bash
 PORT=3001
 TELEGRAM_TOKEN=YOUR_TELEGRAM_BOT_TOKEN
 MY_CHAT_ID=YOUR_CHAT_ID
 SERIAL_PORT_PATH=COM3
+```
 
 ### 4. Start the server
-
+```bash
 node server.js
-
+```
 ### 5. Frontend Setup
-
+```bash
 cd frontend
 npm install
+```
 
 ### Start the application:
-
+```bash
 npm run dev
+```
 
-### Team
-
+## Team
 ### Developed by:
 
-Youssef Mohamed EL-Tabie Shetaia
-Ammar Mohamed EL-Dessouqi EL-Qazaz
-Mariam EL-Saied Gaber Kareem EL-Deen
+1. Youssef Mohamed EL-Tabie Shetaia
+2. Ammar Mohamed EL-Dessouqi EL-Qazaz
+3. Mariam EL-Saied Gaber Kareem EL-Deen
